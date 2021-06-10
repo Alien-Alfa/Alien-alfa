@@ -24,8 +24,8 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
-<a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
