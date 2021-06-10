@@ -3,8 +3,9 @@
   <h1>Albin Thomas</h1>
 </div>
 
-<h7 align="center"> Less of a programmer and more like a bug fixer </h7>
-
+<div align="center">
+<h7> Les of a programmer and more like a bug fixer </h7>
+</div>
 ##
 <p align="center">
   <a href="https://github.com/Alien-alfa">
