@@ -47,7 +47,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Alien-alfa?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/WhatsAsenaDuplicated)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=wabot-aq)](https://github.com/Alien-alfa/wabot-aq)
 
 </div>
 
