@@ -51,12 +51,14 @@
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=wabot-aq)](https://github.com/Alien-alfa/wabot-aq)
 
 </div>
+<div align="center">
  <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-alfa&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
         <td align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)" /></td>
     </tr>
+  </div>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
