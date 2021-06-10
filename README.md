@@ -33,15 +33,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&theme=nightowl" alt="phaticusthiccy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alien-alfa&show_icons=true&theme=nightowl" alt="Alien-alfa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-alfa&theme=nightowl" alt="Alien-alfa" /></p>
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alien-alfa)
 
 </details>
 
