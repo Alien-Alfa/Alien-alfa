@@ -21,15 +21,6 @@
 </p>
 
 
-- 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
-
-- 🌱 I’m currently learning **Java, Typescript, HTML**
-
-- 👨‍💻 All of my projects are available at > [My Blog](https://phaticusthiccy.jimdofree.com) <
-
-- 📫 How to reach me > [Telegram](https://t.me/phaticusthiccy) <
-
-- 💫 **I am only a sad developer.. 🌆**
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
