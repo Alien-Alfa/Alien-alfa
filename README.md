@@ -2,7 +2,8 @@
   <img src="https://i.ibb.co/NxFN3q1/logo.jpg" width="200" height="200">
   <h1>Alien Alfa</h1>
 </div>
-<h7 align="left">Programer with a soldering iorn. <br>WhatsAsena 🐺</h7>
+
+<h7 align="center">Programer with a soldering iorn.</h7>
 
 ##
 <p align="center">
