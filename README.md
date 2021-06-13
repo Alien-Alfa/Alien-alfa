@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/NxFN3q1/logo.jpg" width="200" height="200">
+  <a href="https://photos.app.goo.gl/nB9UafRypyVmR7NAA"><span class="avatar"><img width='200' height='200'  src="https://i.ibb.co/NxFN3q1/logo.jpg" alt=""> </a></span>
   <h1>Albin Thomas</h1>
 </div>
 
