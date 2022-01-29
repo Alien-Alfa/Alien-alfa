@@ -1,7 +1,7 @@
 <img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/2.png"/>
 <!--
 ___
-![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/beta/github-metrics.svg)
 ___
 -->
 <!--
@@ -63,8 +63,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Alien-alfa/Alien-alfa/master/charts/bar_graph.png) 
+ 
 
-
- Last Updated on 27/01/2022 01:12:54 UTC
+ Last Updated on 30/01/2022 03:12:54 UTC
 <!--END_SECTION:waka-->
