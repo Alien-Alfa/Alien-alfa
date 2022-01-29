@@ -1,4 +1,4 @@
-<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.jpg"/>
+<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.png"/>
 <!--
 ___
 ![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/master/github-metrics.svg)
