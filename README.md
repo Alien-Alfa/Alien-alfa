@@ -1,36 +1,68 @@
+<img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/ng1.jpg"/>
+<!--
+___
+![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/beta/github-metrics.svg)
+___
+-->
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
+-->
+
+---
+```python
+class say_hello:
+
+    def __init__(self, text) -> None:
+        self.text = text
+
+    def __str__(self) -> str:
+        return self.text
+
+    def __repr__(self) -> str:
+        return self.__str__()
+
+if __name__ == "__main__":
+    print(say_hello("Hello there 👋, I'm Alien-alfa, Nice to meet you all!"))
+```
 <div align="center">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='200' height='200'  src="https://yt3.ggpht.com/8T2e-Oq9f8RxPujoMnBQBuTrO21Jd2GeZUlcWE_pOj6GAOr95qABksoxoCbxQcLeV8Rgp7aHBQ=s176-c-k-c0x00ffffff-no-rj" alt=""> </a></span>
   <h1>Albin Thomas</h1>
 </div>
 
 <div align="center">
-<h7> Les of a programmer and more like a bug fixer </h7>
+<h7> Les of a programmer and more like a Freelancer </h7>
 </div>
-##
-<p align="center">
-  <a href="https://github.com/Alien-alfa">
-    <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-
-  </a>
-  <a href="https://github.com/Alien-alfa?tab=stars">
-    <img src="https://img.shields.io/github/stars/Alien-alfa?color=ff69b4&label=Stargazers&style=plastic">
-
-  </a>
-  <a href="https://github.com/Alien-alfa?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alien-alfa?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
-</p>
-
-
-
-
+---
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
 <a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-  <div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+MacOS-Catalina, Windows11-Beta, Kali-Linux
+
+```
+ <div align="center">
 
  [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtu.be/qpDeM1pjbJw)
  
@@ -70,7 +102,22 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alien-alfa)
 
 </details>
+    
+**I Mostly Code in Python** 
+
+```text
+Python                   19 repos            ███████████████░░░░░░░░░░   61.29% 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
 
 
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&redirect=true) -->
+**Timeline**
+
+ 
+
+ Last Updated on 30/01/2022 03:12:54 UTC
+<!--END_SECTION:waka-->
