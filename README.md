@@ -45,7 +45,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 💻 Operating System: 
-No Activity Tracked This Week
+MacOS-Catalina, Windows11-Beta, Kali-Linux
 
 ```
 
