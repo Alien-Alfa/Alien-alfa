@@ -25,6 +25,12 @@ if __name__ == "__main__":
     print(say_hello("Hello there 👋, I'm Alien-alfa, Nice to meet you all!"))
 ```
 ---
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+
 <!--START_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
