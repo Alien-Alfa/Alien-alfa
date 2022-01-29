@@ -24,6 +24,14 @@ class say_hello:
 if __name__ == "__main__":
     print(say_hello("Hello there 👋, I'm Alien-alfa, Nice to meet you all!"))
 ```
+<div align="center">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='200' height='200'  src="https://yt3.ggpht.com/8T2e-Oq9f8RxPujoMnBQBuTrO21Jd2GeZUlcWE_pOj6GAOr95qABksoxoCbxQcLeV8Rgp7aHBQ=s176-c-k-c0x00ffffff-no-rj" alt=""> </a></span>
+  <h1>Albin Thomas</h1>
+</div>
+
+<div align="center">
+<h7> Les of a programmer and more like a Freelancer </h7>
+</div>
 ---
 <h3 align="center">Contact Me:</h3>
 <p align="center">
