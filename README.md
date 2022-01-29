@@ -26,7 +26,7 @@ if __name__ == "__main__":
 ```
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+<img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
