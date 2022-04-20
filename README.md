@@ -31,9 +31,7 @@ if __name__ == "__main__":
   <h1>Albin Thomas</h1>
 </div>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
-</div>
+
 
 <div align="center">
 <h7> Les of a programmer and more like a Freelancer </h7>
@@ -44,6 +42,10 @@ if __name__ == "__main__":
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
 <a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
+
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
+</div>
 
 <!--START_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
@@ -56,7 +58,7 @@ if __name__ == "__main__":
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+⌚︎ Time Zone: Asia/kolkata
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -65,7 +67,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 💻 Operating System: 
-MacOS-Catalina, Windows11-Beta, Kali-Linux
+MacOS-BigSur, Windows11-Beta, Mint-Linux
 
 ```
  <div align="center">
@@ -112,9 +114,9 @@ MacOS-Catalina, Windows11-Beta, Kali-Linux
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████████████░░░░░░░░░░   61.29% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
+JavaScript               14 repos            ████████████████████████░   22.58% 
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   20.45% 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
@@ -125,5 +127,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  
 
- Last Updated on 30/01/2022 03:12:54 UTC
-<!--END_SECTION:waka-->
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
+</div>
