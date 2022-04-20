@@ -28,6 +28,8 @@ if __name__ == "__main__":
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='200' height='200'  src="https://yt3.ggpht.com/8T2e-Oq9f8RxPujoMnBQBuTrO21Jd2GeZUlcWE_pOj6GAOr95qABksoxoCbxQcLeV8Rgp7aHBQ=s176-c-k-c0x00ffffff-no-rj" alt=""> </a></span>
   <h1>Albin Thomas</h1>
 </div>
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
 
 <div align="center">
 <h7> Les of a programmer and more like a Freelancer </h7>
