@@ -33,11 +33,12 @@ if __name__ == "__main__":
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
+</div>
 
 <div align="center">
 <h7> Les of a programmer and more like a Freelancer </h7>
 </div>
----
+
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
