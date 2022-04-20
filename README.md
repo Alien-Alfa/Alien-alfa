@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlienAlfa" /></a></p>
-</div>
+
 
 <!--START_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
