@@ -27,7 +27,7 @@ if __name__ == "__main__":
 -->
 
 <div align="center">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='200' height='200'  src="https://yt3.ggpht.com/8T2e-Oq9f8RxPujoMnBQBuTrO21Jd2GeZUlcWE_pOj6GAOr95qABksoxoCbxQcLeV8Rgp7aHBQ=s176-c-k-c0x00ffffff-no-rj" alt=""> </a></span>
+  <a href="https://alien-alfa.github.io"><span class="avatar"> </a></span>
   <h1>Albin Thomas</h1>
 </div>
 
