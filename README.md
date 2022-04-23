@@ -1,4 +1,4 @@
-<img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/ALIEN_ALFA1.png"/>
+<img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee-Shades.png"/>
 <!--
 ___
 ![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/beta/github-metrics.svg)
