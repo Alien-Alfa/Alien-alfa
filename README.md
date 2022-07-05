@@ -37,6 +37,14 @@ if __name__ == "__main__":
 <h7> Les of a programmer and more like a Freelancer </h7>
 </div>
 
+<p align="center">
+  <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
+</p>
+
+<br><br>
+
+
+
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
@@ -111,14 +119,14 @@ MacOS-BigSur, Windows11-Beta, Mint-Linux
 
 </details>
     
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-JavaScript               14 repos            ████████████████████████░   22.58% 
-HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   20.45% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   01.29% 
+JavaScript               14 repos            ████████████████████░░░░░   85.01% 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   11.35% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25% 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10%
 
 ```
 
