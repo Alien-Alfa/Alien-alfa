@@ -32,9 +32,13 @@ if __name__ == "__main__":
 </div>
 
 
+<p align="center">
+  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
 
 <div align="center">
-<h7> Les of a programmer and more like a Freelancer </h7>
+<h7> You only live once, but if you do it right, once is enough.</h7>
 </div>
 
 <p align="center">
