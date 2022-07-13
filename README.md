@@ -1,4 +1,9 @@
-<img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png"/>
+<!-- < src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png"/> -->
+
+<p align="center">
+  <a href="https://www.instagram.com/alienalfa/"><img img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" alt="Profile"/> </a>
+</p>
+
 <!--
 ___
 ![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/beta/github-metrics.svg)
